@@ -1,3 +1,5 @@
+Se tuvo que eliminar los archivos anteriores, pues generaban problemas para subirlos al repositorio.
+
 ## Instrucciones de ejecución
 
 - Ejecutar el server.py con el nombre del archivo a mandar y la cantidad de clientes.
